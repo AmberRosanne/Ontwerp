@@ -1,6 +1,2 @@
-# Flex-HTMLDeepDive
-Amber Zijp, klas SD1Cb
-
-link naar live versie van foto slider:
-http://25046.hosts1.ma-cloud.nl/Fotoslider/fotoslider.html
-
+# Hier staan alle ontwerp opdrachten.
+Elke les staat in een apart mapje met een eigen README.md. In de README.md staat de link naar de live versie van de oprdacht.
